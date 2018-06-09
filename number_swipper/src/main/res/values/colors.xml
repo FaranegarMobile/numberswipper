@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF8F00</color>
+    <color name="colorPrimaryDark">#a6a69c</color>
+    <color name="colorAccent">#525252</color>
+
+    <color name="backgroud_box">#88ffffff</color>
+    <color name="main_blue_color">#0864D8</color>
+
+    <color name="main_color">#0864D8</color>
+
+    <color name="dark_blue">#013F72</color>
+
+    <color name="gradient_back_color">#ECE8E8</color>
+    <color name="color_line">#f5f5f5</color>
+    <color name="toolbar_color">#ffcb00</color>
+
+    <color name="light_blue">#4DAAF7</color>
+    <color name="blue">#0075D2</color>
+    <color name="red">#921F2D</color>
+    <color name="light_gray">#DADCD7</color>
+    <color name="gray">#4A4A4A</color>
+    <color name="background">#E5E5E5</color>
+    <color name="text">#212121</color>
+    <color name="white">#FFF</color>
+
+    <color name="orange">#f47329</color>
+    <color name="blue_light">#7dbff4</color>
+
+    <color name="search">#F8942C</color>
+    <color name="search_light">#ffb96f</color>
+    <color name="gray_line">#e5e5e5</color>
+
+    <color name="blue_line">#0864D8</color>
+    <color name="green">#FF259C01</color>
+    <color name="toolbar_city">@color/light_blue</color>
+    <color name="black">#000000</color>
+    <color name="lightBlack">#FF898383</color>
+    <color name="yellow">#fbbc05</color>
+    <color name="tabIndicatorColor">#e1e1e1</color>
+
+</resources>

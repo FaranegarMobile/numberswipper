@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="radius">5dp</dimen>
+    <dimen name="stroke_width">2dp</dimen>
+    <dimen name="airline_logo">65dp</dimen>
+    <dimen name="airline_logo_little">55dp</dimen>
+    <dimen name="origin_code_right">14dp</dimen>
+    <dimen name="origin_code_left">20dp</dimen>
+    <dimen name="drawble_sw_left">31dp</dimen>
+    <dimen name="text_big">20sp</dimen>
+    <dimen name="text_less_normal">12sp</dimen>
+    <dimen name="font_size">44sp</dimen>
+    <dimen name="icon_btn">30sp</dimen>
+    <dimen name="rial_size">17sp</dimen>
+    <dimen name="margin_card">6dp</dimen>
+
+    <dimen name="icon_toolbar">35dp</dimen>
+    <dimen name="margin_line">10dp</dimen>
+    <dimen name="img_icon">20dp</dimen>
+    <dimen name="rial_size_2">15sp</dimen>
+    <dimen name="text_small">10sp</dimen>
+    <dimen name="text_medium">14sp</dimen>
+
+    <dimen name="font_size_big">18sp</dimen>
+    <dimen name="font_size_normal">14sp</dimen>
+
+</resources>
