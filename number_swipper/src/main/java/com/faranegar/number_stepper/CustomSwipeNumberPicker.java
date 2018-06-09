@@ -244,7 +244,7 @@ public class CustomSwipeNumberPicker extends AppCompatTextView {
                         int newValue = numberPicker.getValue();
                         changeValue(newValue);
                         notifyListener(newValue);
-                    }
+                    } 
                 });
         android.support.v7.app.AlertDialog dialog = builder.show();
 //        LinearLayout buttonPanel = (LinearLayout) dialog.findViewById(R.id.buttonPanel);
